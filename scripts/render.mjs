@@ -93,35 +93,59 @@ function filterScript() {
   var cnt = document.getElementById('cnt');
   var total = rows.length;
 
-  function fill(sel, attr, numeric) {
+  // هل الصف يطابق الفلاتر الحالية؟ (استثناء الفلتر اللي بنبني خياراته دلوقتي)
+  function matches(r, exclude) {
+    var b = fBrand.value, c = fCap.value, w = fWatt.value;
+    if (exclude !== 'brand' && b && r.getAttribute('data-brand') !== b) return false;
+    if (exclude !== 'cap' && c && r.getAttribute('data-cap') !== c) return false;
+    if (exclude !== 'watt' && w && r.getAttribute('data-watt') !== w) return false;
+    var p = parseFloat(r.getAttribute('data-price'));
+    var mn = parseFloat(fMin.value), mx = parseFloat(fMax.value);
+    if (!isNaN(mn) && p < mn) return false;
+    if (!isNaN(mx) && p > mx) return false;
+    return true;
+  }
+
+  // إعادة بناء خيارات القائمة من الصفوف المطابقة لباقي الفلاتر بس
+  function fill(sel, attr, numeric, key) {
+    var prev = sel.value;
     var set = {};
-    rows.forEach(function (r) { var v = r.getAttribute(attr); if (v) set[v] = 1; });
+    rows.forEach(function (r) {
+      if (!matches(r, key)) return;
+      var v = r.getAttribute(attr);
+      if (v) set[v] = 1;
+    });
     var vals = Object.keys(set);
     vals.sort(numeric
       ? function (a, b) { return parseFloat(a) - parseFloat(b); }
       : function (a, b) { return a.localeCompare(b, 'ar'); });
+    sel.innerHTML = '';
+    var all = document.createElement('option');
+    all.value = '';
+    all.textContent = 'الكل';
+    sel.appendChild(all);
     vals.forEach(function (v) {
       var o = document.createElement('option');
       o.value = v;
       o.textContent = v;
       sel.appendChild(o);
     });
+    sel.value = prev && set[prev] ? prev : '';
   }
-  fill(fCap, 'data-cap', true);
-  fill(fWatt, 'data-watt', true);
-  fill(fBrand, 'data-brand', false);
 
-  function apply() {
-    var b = fBrand.value, c = fCap.value, w = fWatt.value;
-    var mn = parseFloat(fMin.value), mx = parseFloat(fMax.value);
+  function apply(changed) {
+    // تغيير فلتر أب يلغي الاختيارات اللي تحته عشان الخيارات تتحسب من جديد
+    if (changed === 'brand') { fCap.value = ''; fWatt.value = ''; }
+    if (changed === 'cap') { fWatt.value = ''; }
+
+    // ما نعيدش بناء القائمة اللي المستخدم اختارها دلوقتي عشان اختياره ما يضيعش
+    if (changed !== 'brand') fill(fBrand, 'data-brand', false, 'brand');
+    if (changed !== 'cap') fill(fCap, 'data-cap', true, 'cap');
+    if (changed !== 'watt') fill(fWatt, 'data-watt', true, 'watt');
+
     var shown = 0;
     rows.forEach(function (r) {
-      var ok = (!b || r.getAttribute('data-brand') === b)
-            && (!c || r.getAttribute('data-cap') === c)
-            && (!w || r.getAttribute('data-watt') === w);
-      var p = parseFloat(r.getAttribute('data-price'));
-      if (!isNaN(mn)) { ok = ok && p >= mn; }
-      if (!isNaN(mx)) { ok = ok && p <= mx; }
+      var ok = matches(r, null);
       r.style.display = ok ? '' : 'none';
       r.className = ok && (shown % 2 === 1) ? 'alt' : '';
       if (ok) { shown++; }
@@ -129,15 +153,20 @@ function filterScript() {
     cnt.textContent = shown + ' من ' + total + ' منتج';
   }
 
-  [fBrand, fCap, fWatt, fMin, fMax].forEach(function (el) {
-    el.addEventListener('input', apply);
-    el.addEventListener('change', apply);
+  [['fBrand', 'brand'], ['fCap', 'cap'], ['fWatt', 'watt']].forEach(function (pair) {
+    var el = document.getElementById(pair[0]), key = pair[1];
+    el.addEventListener('input', function () { apply(key); });
+    el.addEventListener('change', function () { apply(key); });
+  });
+  [fMin, fMax].forEach(function (el) {
+    el.addEventListener('input', function () { apply(null); });
+    el.addEventListener('change', function () { apply(null); });
   });
   document.getElementById('fReset').addEventListener('click', function () {
     fBrand.value = ''; fCap.value = ''; fWatt.value = ''; fMin.value = ''; fMax.value = '';
-    apply();
+    apply(null);
   });
-  apply();
+  apply(null);
 })();`;
 }
 
