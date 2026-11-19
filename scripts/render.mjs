@@ -88,6 +88,7 @@ function filterScript() {
   var fBrand = document.getElementById('fBrand');
   var fCap = document.getElementById('fCap');
   var fWatt = document.getElementById('fWatt');
+  var fMotor = document.getElementById('fMotor');
   var fMin = document.getElementById('fMin');
   var fMax = document.getElementById('fMax');
   var cnt = document.getElementById('cnt');
@@ -95,10 +96,11 @@ function filterScript() {
 
   // هل الصف يطابق الفلاتر الحالية؟ (استثناء الفلتر اللي بنبني خياراته دلوقتي)
   function matches(r, exclude) {
-    var b = fBrand.value, c = fCap.value, w = fWatt.value;
+    var b = fBrand.value, c = fCap.value, w = fWatt.value, m = fMotor.value;
     if (exclude !== 'brand' && b && r.getAttribute('data-brand') !== b) return false;
     if (exclude !== 'cap' && c && r.getAttribute('data-cap') !== c) return false;
     if (exclude !== 'watt' && w && r.getAttribute('data-watt') !== w) return false;
+    if (exclude !== 'motor' && m && r.getAttribute('data-motor') !== m) return false;
     var p = parseFloat(r.getAttribute('data-price'));
     var mn = parseFloat(fMin.value), mx = parseFloat(fMax.value);
     if (!isNaN(mn) && p < mn) return false;
@@ -135,13 +137,14 @@ function filterScript() {
 
   function apply(changed) {
     // تغيير فلتر أب يلغي الاختيارات اللي تحته عشان الخيارات تتحسب من جديد
-    if (changed === 'brand') { fCap.value = ''; fWatt.value = ''; }
+    if (changed === 'brand' || changed === 'motor') { fCap.value = ''; fWatt.value = ''; }
     if (changed === 'cap') { fWatt.value = ''; }
 
     // ما نعيدش بناء القائمة اللي المستخدم اختارها دلوقتي عشان اختياره ما يضيعش
     if (changed !== 'brand') fill(fBrand, 'data-brand', false, 'brand');
     if (changed !== 'cap') fill(fCap, 'data-cap', true, 'cap');
     if (changed !== 'watt') fill(fWatt, 'data-watt', true, 'watt');
+    if (changed !== 'motor') fill(fMotor, 'data-motor', false, 'motor');
 
     var shown = 0;
     rows.forEach(function (r) {
@@ -153,7 +156,7 @@ function filterScript() {
     cnt.textContent = shown + ' من ' + total + ' منتج';
   }
 
-  [['fBrand', 'brand'], ['fCap', 'cap'], ['fWatt', 'watt']].forEach(function (pair) {
+  [['fBrand', 'brand'], ['fCap', 'cap'], ['fWatt', 'watt'], ['fMotor', 'motor']].forEach(function (pair) {
     var el = document.getElementById(pair[0]), key = pair[1];
     el.addEventListener('input', function () { apply(key); });
     el.addEventListener('change', function () { apply(key); });
@@ -163,7 +166,7 @@ function filterScript() {
     el.addEventListener('change', function () { apply(null); });
   });
   document.getElementById('fReset').addEventListener('click', function () {
-    fBrand.value = ''; fCap.value = ''; fWatt.value = ''; fMin.value = ''; fMax.value = '';
+    fBrand.value = ''; fCap.value = ''; fWatt.value = ''; fMotor.value = ''; fMin.value = ''; fMax.value = '';
     apply(null);
   });
   apply(null);
@@ -383,7 +386,7 @@ function renderRows(rows, start = 0) {
       )}' style='width:76px;height:76px;object-fit:contain'></a>`;
       return `<tr data-brand='${esc(offer.brand || '')}' data-cap='${esc(offer.cap || '')}' data-watt='${esc(
         offer.watt || '',
-      )}' data-price='${offer.price}'><td class='n c-num'>${start + index + 1}</td><td class='im c-img'>${image}</td><td class='nm c-name'><a href='${detail}'>${esc(
+      )}' data-price='${offer.price}' data-motor='${motor}'><td class='n c-num'>${start + index + 1}</td><td class='im c-img'>${image}</td><td class='nm c-name'><a href='${detail}'>${esc(
         offer.name,
       )}</a></td><td class='sp c-cap'>${cap}</td><td class='sp c-watt'>${watt}</td><td class='sp c-motor${motorCls}'>${motor}</td><td class='w c-war'>${warranty}</td><td class='c-ship'>${ship}</td><td class='p c-price'>${formatPrice(
         offer.price,
@@ -453,6 +456,7 @@ ${renderRows(featured)}
   <div class="fld"><label for="fBrand">البراند</label><select id="fBrand"><option value="">الكل</option></select></div>
   <div class="fld"><label for="fCap">السعة (لتر)</label><select id="fCap"><option value="">الكل</option></select></div>
   <div class="fld"><label for="fWatt">القدرة (وات)</label><select id="fWatt"><option value="">الكل</option></select></div>
+  <div class="fld"><label for="fMotor">الموتور</label><select id="fMotor"><option value="">الكل</option></select></div>
   <div class="fld"><label for="fMin">السعر من</label><input id="fMin" type="number" inputmode="numeric" placeholder="0" min="0"></div>
   <div class="fld"><label for="fMax">السعر إلى</label><input id="fMax" type="number" inputmode="numeric" placeholder="∞" min="0"></div>
   <button id="fReset" class="reset">مسح الفلاتر</button>
