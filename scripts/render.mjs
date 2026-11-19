@@ -19,6 +19,22 @@ export const OUT_DIR = join(ROOT, 'public');
 
 const emptyDash = '—';
 
+// الموتور: إنفرتر بس لو مذكور صراحة (في العنوان أو في مواصفات مؤكدة)، غير كده عادي
+const INVERTER_ASINS = new Set([
+  'B0FMQ9VVXX', // Toshiba — Origin Inverter (العنوان)
+  'B094HJ4JSH', // LG MH8265DIS — Smart Inverter (العنوان)
+  'B0F2HZKCFK', // LG — Smart Inverter (العنوان)
+  'B0B1YRH6G5', // LG Neo Chef — Inverter (العنوان)
+  'B0FY2YDSQY', // Oraimo OMO-221A — Inverter Technology (المواصفات)
+  'B0FY33YNG1', // Oraimo OMO-521A — Inverter Technology (المواصفات)
+]);
+
+function motorOf(offer) {
+  return INVERTER_ASINS.has(offer.asin) || /inverter|إنفرتر|انفرتر/i.test(String(offer.title || ''))
+    ? 'إنفرتر'
+    : 'عادي';
+}
+
 const esc = (value) =>
   String(value ?? '')
     .replace(/&/g, '&amp;')
@@ -250,6 +266,7 @@ tr.alt td{background:var(--surface-alt)}
 .nm a{color:var(--text)}
 .nm a:hover{color:var(--a)}
 .sp{white-space:nowrap}
+.mot-inv{color:var(--win);font-weight:800}
 .p{font-weight:800;white-space:nowrap;color:var(--win)}
 .w{color:var(--muted);font-size:12px}
 .im{width:90px;text-align:center}
@@ -328,6 +345,8 @@ function renderRows(rows, start = 0) {
       const ship = esc(offer.ship || '') || emptyDash;
       const cap = offer.cap ? esc(offer.cap) : emptyDash;
       const watt = offer.watt ? esc(offer.watt) : emptyDash;
+      const motor = motorOf(offer);
+      const motorCls = motor === 'إنفرتر' ? ' mot-inv' : '';
       const url = esc(offer.url || '');
       const detail = `p/${encodeURIComponent(offer.asin)}.html`;
       const image = `<a href='${detail}'><img src='${esc(offer.img)}' loading='lazy' alt='${esc(
@@ -337,14 +356,14 @@ function renderRows(rows, start = 0) {
         offer.watt || '',
       )}' data-price='${offer.price}'><td class='n c-num'>${start + index + 1}</td><td class='im c-img'>${image}</td><td class='nm c-name'><a href='${detail}'>${esc(
         offer.name,
-      )}</a></td><td class='sp c-cap'>${cap}</td><td class='sp c-watt'>${watt}</td><td class='w c-war'>${warranty}</td><td class='c-ship'>${ship}</td><td class='p c-price'>${formatPrice(
+      )}</a></td><td class='sp c-cap'>${cap}</td><td class='sp c-watt'>${watt}</td><td class='sp c-motor${motorCls}'>${motor}</td><td class='w c-war'>${warranty}</td><td class='c-ship'>${ship}</td><td class='p c-price'>${formatPrice(
         offer.price,
       )} ج.م</td><td class='lk c-link'><a href='${url}' target='_blank' rel='nofollow sponsored'>أمازون</a></td></tr>`;
     })
     .join('\n');
 }
 
-const tableHead = `<thead><tr><th class='c-num'></th><th class='c-img'>الصورة</th><th class='c-name'>الاسم</th><th class='c-cap'>السعة (لتر)</th><th class='c-watt'>القدرة (وات)</th><th class='c-war'>الضمان</th><th class='c-ship'>الشحن</th><th class='c-price'>السعر</th><th class='c-link'>الرابط</th></tr></thead>`;
+const tableHead = `<thead><tr><th class='c-num'></th><th class='c-img'>الصورة</th><th class='c-name'>الاسم</th><th class='c-cap'>السعة (لتر)</th><th class='c-watt'>القدرة (وات)</th><th class='c-motor'>الموتور</th><th class='c-war'>الضمان</th><th class='c-ship'>الشحن</th><th class='c-price'>السعر</th><th class='c-link'>الرابط</th></tr></thead>`;
 
 function renderAccessories() {
   if (!ACCESSORIES.length) return '';
@@ -442,6 +461,7 @@ export function renderDetail(offer, options = {}) {
   const brand = esc(offer.brand || '') || emptyDash;
   const cap = offer.cap ? `${esc(offer.cap)} لتر` : emptyDash;
   const watt = offer.watt ? `${esc(offer.watt)} وات` : emptyDash;
+  const motor = motorOf(offer);
   const variant = esc(offer.variant || '') || emptyDash;
   const model = esc(offer.model || '') || emptyDash;
   const url = esc(offer.url || '');
@@ -467,6 +487,7 @@ ${siteHeader('../')}
       <dt>البراند</dt><dd>${brand}</dd>
       <dt>السعة</dt><dd>${cap}</dd>
       <dt>القدرة</dt><dd>${watt}</dd>
+      <dt>الموتور</dt><dd>${motor}</dd>
       <dt>النوع</dt><dd>${variant}</dd>
       <dt>الموديل</dt><dd>${model}</dd>
       <dt>الضمان</dt><dd>${warranty}</dd>
@@ -490,7 +511,7 @@ function csvCell(value) {
 export function renderCsv(offers) {
   const rows = visibleOffers(offers);
   const lines = [
-    ['م', 'الصورة', 'الاسم', 'البراند', 'السعة (لتر)', 'القدرة (وات)', 'الضمان', 'الشحن', 'السعر', 'الرابط'],
+    ['م', 'الصورة', 'الاسم', 'البراند', 'السعة (لتر)', 'القدرة (وات)', 'الموتور', 'الضمان', 'الشحن', 'السعر', 'الرابط'],
   ];
 
   rows.forEach((offer, index) => {
@@ -501,6 +522,7 @@ export function renderCsv(offers) {
       offer.brand || '',
       offer.cap || '',
       offer.watt || '',
+      motorOf(offer),
       offer.warranty || emptyDash,
       offer.ship || emptyDash,
       offer.price,
