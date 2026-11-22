@@ -11,14 +11,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 3500,
-    "img": "https://m.media-amazon.com/images/I/51ZgeOGFzEL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31gIalI4bsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY2YDSQY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CX5Z9V2D",
@@ -32,14 +33,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 3701.5,
-    "img": "https://m.media-amazon.com/images/I/41ZGhzzEEML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41ZGhzzEEML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CX5Z9V2D?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B099SDRZD1",
@@ -53,15 +55,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 3797.99,
-    "img": "https://m.media-amazon.com/images/I/51OlyY-yojL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/313XuMuPu5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B099SDRZD1?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B0DNFJ6L7B",
@@ -75,14 +79,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 3650,
-    "img": "https://m.media-amazon.com/images/I/514ztaxV-RL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/514ztaxV-RL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNFJ6L7B?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HQPTX9JX",
@@ -92,19 +97,21 @@
     "watt": "700",
     "variant": "",
     "model": "Fmw-20mc-s",
-    "title": "Fresh 20L Silver Microwave with Gift FMW-20MC-S",
+    "title": "Fresh 20L Silver Microwave with Gift FMW-20MC-S | 20L Capacity, Silver Finish, Model FMW-20MC-S",
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 3999,
-    "img": "https://m.media-amazon.com/images/I/41uweHWxBkL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/214Rih-0f9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HQPTX9JX?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B093FT4SHL",
@@ -118,14 +125,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 3966,
-    "img": "https://m.media-amazon.com/images/I/51LkzN00nRL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31rqBpoVV4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B093FT4SHL?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G6X1KSN6",
@@ -139,14 +147,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 4298.95,
-    "img": "https://m.media-amazon.com/images/I/61iGo5jjB7L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21ewAh0lljL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G6X1KSN6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H2B58BK6",
@@ -160,14 +169,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 4315.53,
-    "img": "https://m.media-amazon.com/images/I/31IThq1YLBL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31IThq1YLBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H2B58BK6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B076KRCX3W",
@@ -181,14 +191,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 4493.35,
-    "img": "https://m.media-amazon.com/images/I/51Ru9Wi-oCL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31P2+r05Z+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B076KRCX3W?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HGRMVJ9C",
@@ -202,14 +213,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 4499,
-    "img": "https://m.media-amazon.com/images/I/61BYXNaJt5L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31bcUupVdJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HGRMVJ9C?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYWLVKJ",
@@ -223,14 +235,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4540.43,
-    "img": "https://m.media-amazon.com/images/I/41kASTYtbJL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31mEpiBpteL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CQYWLVKJ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091P6LJJN",
@@ -244,14 +257,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4016.62,
-    "img": "https://m.media-amazon.com/images/I/51zIlM0JfDL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31lSH3j7YzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091P6LJJN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DNFQQLZ9",
@@ -265,14 +279,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4675,
-    "img": "https://m.media-amazon.com/images/I/51arzamrB9L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31CsWKcRN+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNFQQLZ9?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GD7XWJKS",
@@ -286,14 +301,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 4999,
-    "img": "https://m.media-amazon.com/images/I/61H6iwnjBeL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31MfaBBnUJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GD7XWJKS?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY3G89GQ",
@@ -307,14 +323,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 4660,
-    "img": "https://m.media-amazon.com/images/I/71wr3RZENyL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41QstbC44IL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY3G89GQ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09KVGFX85",
@@ -328,14 +345,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5099,
-    "img": "https://m.media-amazon.com/images/I/51Q7KB86EYL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31uFb7HJ8gL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09KVGFX85?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY33YNG1",
@@ -349,14 +367,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 5194.14,
-    "img": "https://m.media-amazon.com/images/I/51PTrl5lA4L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31rWru0HBkL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY33YNG1?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LSOACNG",
@@ -370,14 +389,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 5199,
-    "img": "https://m.media-amazon.com/images/I/617l9IGBpqL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31oVTzn1bqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LSOACNG?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BD28SYRD",
@@ -391,14 +411,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5200,
-    "img": "https://m.media-amazon.com/images/I/61eTBx+VA3L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31u5YhSqvqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BD28SYRD?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B096QWF5RX",
@@ -412,14 +433,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 5399,
-    "img": "https://m.media-amazon.com/images/I/61A7aLwseUL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21m3UpmxvOL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B096QWF5RX?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BMVQKG33",
@@ -433,14 +455,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 5499,
-    "img": "https://m.media-amazon.com/images/I/71NVuI4WgSL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31aZUrfwa1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BMVQKG33?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ92XEO",
@@ -454,14 +477,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 6326.1,
-    "img": "https://m.media-amazon.com/images/I/51LXfYdfojL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31lUDfkB3FL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ92XEO?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LSOAE1Q",
@@ -475,14 +499,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 5746,
-    "img": "https://m.media-amazon.com/images/I/61k5ylRp7bL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31+qKhD6zjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LSOAE1Q?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DS927P6Q",
@@ -496,14 +521,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5771.9,
-    "img": "https://m.media-amazon.com/images/I/615xuiuiuyL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31h9L3dLVSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DS927P6Q?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FRHXWHFW",
@@ -517,14 +543,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 5960,
-    "img": "https://m.media-amazon.com/images/I/51UfvFf6TVL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31-bGNXD6uL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FRHXWHFW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B092DNJDV3",
@@ -538,14 +565,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 5999,
-    "img": "https://m.media-amazon.com/images/I/71Taf6EZT-L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41MZu61EvhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B092DNJDV3?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HGSB78XR",
@@ -559,14 +587,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 5999,
-    "img": "https://m.media-amazon.com/images/I/61f21Txt1bL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31HGCUMM50L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HGSB78XR?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0976GJGLR",
@@ -580,14 +609,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6018,
-    "img": "https://m.media-amazon.com/images/I/614IfDr97xS._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31+AzTGbmqS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0976GJGLR?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C28TRVMN",
@@ -601,14 +631,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6299,
-    "img": "https://m.media-amazon.com/images/I/51I5OrBQkRL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31zYlgMKvzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C28TRVMN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Z8G1QY3",
@@ -622,14 +653,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 6240,
-    "img": "https://m.media-amazon.com/images/I/71pNa2FJawL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/413cqfpMotL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08Z8G1QY3?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FMQ9VVXX",
@@ -643,14 +675,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 6299,
-    "img": "https://m.media-amazon.com/images/I/81+ivBe7PLL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41VALN3kauL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FMQ9VVXX?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B083XV57QN",
@@ -664,14 +697,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6499,
-    "img": "https://m.media-amazon.com/images/I/61O9OnMiiiL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31xaP8Rs33L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B083XV57QN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HGRKTLWY",
@@ -685,14 +719,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6499,
-    "img": "https://m.media-amazon.com/images/I/618DnBG7BkL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31FEi1t-Y3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HGRKTLWY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BH4Q1ZYV",
@@ -706,14 +741,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 6499,
-    "img": "https://m.media-amazon.com/images/I/51gcxqZMDSL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31V5cdgdMYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BH4Q1ZYV?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR6MFP98",
@@ -723,18 +759,19 @@
     "watt": "1320",
     "variant": "رقمي",
     "model": "BS-25 U",
-    "title": "BLACK STONE BS-25 U Digital Microwave Oven, 25L, 1320W, 8 Programs",
+    "title": "BLACK STONE BS-25 U Digital Microwave Oven, 25L, 1320W, 8 Programs | Model BS-25 U",
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 6571.2,
-    "img": "https://m.media-amazon.com/images/I/51ctziLij9L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31lzmjyV8tL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR6MFP98?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09GNWPH6D",
@@ -748,14 +785,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6690,
-    "img": "https://m.media-amazon.com/images/I/41GDnUYvdNL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21ePH6ZPH7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09GNWPH6D?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ92ZV0",
@@ -769,15 +807,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6702,
-    "img": "https://m.media-amazon.com/images/I/512IO4tLDeL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31p1Llk4YGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ92ZV0?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B08WJJK2HP",
@@ -791,14 +831,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6850,
-    "img": "https://m.media-amazon.com/images/I/61HeMC3DbnL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41+OPkfaLJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJJK2HP?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FJ69ZHYS",
@@ -812,14 +853,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 6900,
-    "img": "https://m.media-amazon.com/images/I/31GZI-evZ4L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31GZI-evZ4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJ69ZHYS?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09KVHYVK4",
@@ -833,14 +875,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6924,
-    "img": "https://m.media-amazon.com/images/I/61GPMNs3+eL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/315qVBSeGKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09KVHYVK4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LSO90E8",
@@ -854,14 +897,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 7285,
-    "img": "https://m.media-amazon.com/images/I/41IMIOVJq-L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31fOd2HoqEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LSO90E8?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ91UAW",
@@ -875,14 +919,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 7225,
-    "img": "https://m.media-amazon.com/images/I/71oPglyP1OL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31rgTjyvkkL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ91UAW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CV874WKM",
@@ -896,14 +941,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 7349,
-    "img": "https://m.media-amazon.com/images/I/913tcdwbLlL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/91FkldAn5ZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CV874WKM?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B010JCJ38S",
@@ -917,14 +963,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 6544,
-    "img": "https://m.media-amazon.com/images/I/71xyajPmLqL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31Dk83i-t1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B010JCJ38S?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FJ6CR5WH",
@@ -938,14 +985,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 7400,
-    "img": "https://m.media-amazon.com/images/I/81fBb5bQt0L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41JAcDtGm5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJ6CR5WH?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LSO9MS2",
@@ -959,15 +1007,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 7499,
-    "img": "https://m.media-amazon.com/images/I/41IMIOVJq-L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31fOd2HoqEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LSO9MS2?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B0119KU17G",
@@ -981,14 +1031,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 7809,
-    "img": "https://m.media-amazon.com/images/I/61RNm7G-eOL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/311f4sWbpeL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0119KU17G?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR67VVQP",
@@ -998,18 +1049,19 @@
     "watt": "1440",
     "variant": "رقمي",
     "model": "BS-30 U",
-    "title": "BLACK STONE BS-30 U Digital Microwave Oven, 30L, 1440W, 8 Programs",
+    "title": "BLACK STONE BS-30 U Digital Microwave Oven, 30L, 1440W, 8 Programs | Model BS-30 U",
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 7833.6,
-    "img": "https://m.media-amazon.com/images/I/51232g5pepL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/319Z4wuMAdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR67VVQP?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09692VSW8",
@@ -1023,14 +1075,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 7999,
-    "img": "https://m.media-amazon.com/images/I/71KA2G8-a0L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41ETyEVcHYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09692VSW8?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Z8DFFGF",
@@ -1044,14 +1097,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8111,
-    "img": "https://m.media-amazon.com/images/I/81Ce5yRtXuL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41ZndQDSjdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08Z8DFFGF?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR6Q8PN8",
@@ -1061,18 +1115,19 @@
     "watt": "1500",
     "variant": "رقمي",
     "model": "BS-34 U",
-    "title": "BLACK STONE BS-34 U Digital Microwave Oven, 34L, 1500W, 8 Programs",
+    "title": "BLACK STONE BS-34 U Digital Microwave Oven, 34L, 1500W, 8 Programs | Model BS-34 U",
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 8212.8,
-    "img": "https://m.media-amazon.com/images/I/51232g5pepL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/319Z4wuMAdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR6Q8PN8?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ8YKR8",
@@ -1086,14 +1141,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 8388,
-    "img": "https://m.media-amazon.com/images/I/51ff6H+w1ML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31HpkooT4yL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ8YKR8?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BLFCG7B7",
@@ -1107,14 +1163,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8471,
-    "img": "https://m.media-amazon.com/images/I/41IOHHF3sYL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21DUWB54waL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BLFCG7B7?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BN6VTFRF",
@@ -1128,14 +1185,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8550,
-    "img": "https://m.media-amazon.com/images/I/51ZqQP8qpML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31ncSfJkQEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BN6VTFRF?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Z8BZD4R",
@@ -1149,14 +1207,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 8376,
-    "img": "https://m.media-amazon.com/images/I/81EMhWDzcfL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41QjRU2GYyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08Z8BZD4R?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DNN47VCT",
@@ -1170,14 +1229,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 8599,
-    "img": "https://m.media-amazon.com/images/I/31yn8Am4-FL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31yn8Am4-FL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNN47VCT?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FLWXLS2F",
@@ -1191,14 +1251,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 8799,
-    "img": "https://m.media-amazon.com/images/I/41-GnJ+4zkL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41-GnJ+4zkL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FLWXLS2F?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G1ZD611B",
@@ -1212,14 +1273,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8830.35,
-    "img": "https://m.media-amazon.com/images/I/412-KBbsrgL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/412-KBbsrgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G1ZD611B?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ8YOU6",
@@ -1233,14 +1295,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 9160,
-    "img": "https://m.media-amazon.com/images/I/51ff6H+w1ML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31HpkooT4yL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ8YOU6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091JDR9PB",
@@ -1254,14 +1317,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 9190,
-    "img": "https://m.media-amazon.com/images/I/61mxGpGv2sL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31dCUOVy-NL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091JDR9PB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DDQGHWMQ",
@@ -1275,14 +1339,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 9214.03,
-    "img": "https://m.media-amazon.com/images/I/515-4a3oB6L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31SYS+FzGUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DDQGHWMQ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR6KXRHL",
@@ -1292,18 +1357,19 @@
     "watt": "1600",
     "variant": "تاتش جريل",
     "model": "BS-42 G",
-    "title": "BLACK STONE BS-42 G Digital Touch Microwave Oven with Grill, 42L, 1600W",
+    "title": "BLACK STONE BS-42 G Digital Touch Microwave Oven with Grill, 42L, 1600W | Model BS-42 G",
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 9388.8,
-    "img": "https://m.media-amazon.com/images/I/61H8rJJzj8L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31Or7PiKv-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR6KXRHL?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08X5Y7PR6",
@@ -1317,14 +1383,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 9539,
-    "img": "https://m.media-amazon.com/images/I/617djzKaE8L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21o-ZxQKNiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08X5Y7PR6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ93HYY",
@@ -1338,14 +1405,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 9599,
-    "img": "https://m.media-amazon.com/images/I/51U1YTzPphL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31Ho1vPIO4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ93HYY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08YY2Y5SJ",
@@ -1359,14 +1427,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 9699.03,
-    "img": "https://m.media-amazon.com/images/I/71QiKWUDfSL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31Hx4cdkd9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08YY2Y5SJ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LVVZ2FF",
@@ -1380,14 +1449,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 10012.41,
-    "img": "https://m.media-amazon.com/images/I/614xKrQsBvL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31xJBi27yKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LVVZ2FF?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07FSSWLYH",
@@ -1401,14 +1471,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 10499,
-    "img": "https://m.media-amazon.com/images/I/71WipjiUqcL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41TZ7+AE-nL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07FSSWLYH?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0781YMHCV",
@@ -1422,14 +1493,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 10950,
-    "img": "https://m.media-amazon.com/images/I/51grgJmR1jL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31+KPdk0iqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0781YMHCV?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0913BW7WG",
@@ -1443,15 +1515,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 11398,
-    "img": "https://m.media-amazon.com/images/I/81vV27Wrd0L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41OjVQ56mVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0913BW7WG?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B0D2P7KFG7",
@@ -1465,15 +1539,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 11849,
-    "img": "https://m.media-amazon.com/images/I/61rVpirZZjL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31DOCMuePjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D2P7KFG7?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B0D1SBJDFZ",
@@ -1487,14 +1563,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنة من الوكيل",
     "ship": "",
     "price": 11999,
-    "img": "https://m.media-amazon.com/images/I/71JBggIJHdL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31+1GgT68zL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D1SBJDFZ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B099C1PTST",
@@ -1508,15 +1585,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 12565.95,
-    "img": "https://m.media-amazon.com/images/I/41S5NRoMfcL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21Y5zmFQIHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B099C1PTST?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B094HJ4JSH",
@@ -1530,15 +1609,17 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 13661,
-    "img": "https://m.media-amazon.com/images/I/61xBiXnGqzL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21cFBFe+6TL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B094HJ4JSH?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "out-of-stock"
+    "oosCount": 1,
+    "reason": "out-of-stock",
+    "outOfStockSince": "2026-11-22",
+    "lastSeenOut": "2026-11-22"
   },
   {
     "asin": "B0B75CGN37",
@@ -1552,14 +1633,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان سنتين من الوكيل",
     "ship": "",
     "price": 13699,
-    "img": "https://m.media-amazon.com/images/I/51BRU0HONXL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31cfKuoPIjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B75CGN37?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F2HZKCFK",
@@ -1573,14 +1655,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 14535,
-    "img": "https://m.media-amazon.com/images/I/41EMKK6AABL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/2112JsLTrHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F2HZKCFK?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B1YRH6G5",
@@ -1594,14 +1677,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 13999,
-    "img": "https://m.media-amazon.com/images/I/51M4IksuF8L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31QNSskUpiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B1YRH6G5?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CPQYVMXN",
@@ -1615,14 +1699,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 29951,
-    "img": "https://m.media-amazon.com/images/I/51Q43P9BaML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31uOVABKrfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPQYVMXN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07PKFNSBL",
@@ -1636,14 +1721,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان 5 سنوات من الوكيل",
     "ship": "",
     "price": 30586,
-    "img": "https://m.media-amazon.com/images/I/51+VKfmBNnL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31hvO4qbusL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07PKFNSBL?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GWR8Q2YG",
@@ -1657,14 +1743,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان 5 سنوات من الوكيل",
     "ship": "",
     "price": 31925,
-    "img": "https://m.media-amazon.com/images/I/41u7BET9BML._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31mm+qOdkgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GWR8Q2YG?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GWRB5FGF",
@@ -1678,14 +1765,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان 5 سنوات من الوكيل",
     "ship": "",
     "price": 37015,
-    "img": "https://m.media-amazon.com/images/I/513ZOwUWk-L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31igmgfzi2L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GWRB5FGF?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GQP3N8LH",
@@ -1699,14 +1787,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان 3 سنوات من الوكيل",
     "ship": "",
     "price": 57449,
-    "img": "https://m.media-amazon.com/images/I/61u0W5DsxeL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21GQmZaxY4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GQP3N8LH?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY3HMNKP",
@@ -1720,14 +1809,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5309,
-    "img": "https://m.media-amazon.com/images/I/51I3KKujTRL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31-Ql4IfIoL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY3HMNKP?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQBYF4WY",
@@ -1741,14 +1831,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6209,
-    "img": "https://m.media-amazon.com/images/I/71b3BOZsttL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31Ba0kiCB1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQBYF4WY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQ61H8RT",
@@ -1762,14 +1853,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6399,
-    "img": "https://m.media-amazon.com/images/I/618NPCNi46L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31bW4WLapbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQ61H8RT?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQC2R6HS",
@@ -1783,14 +1875,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 7399,
-    "img": "https://m.media-amazon.com/images/I/71xGoNjBZAL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31wJ8YTnftL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQC2R6HS?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H971ZP4L",
@@ -1804,14 +1897,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4074,
-    "img": "https://m.media-amazon.com/images/I/41Fh4orSHfL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21aby7-I7yL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H971ZP4L?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DNN26TN1",
@@ -1825,14 +1919,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8599,
-    "img": "https://m.media-amazon.com/images/I/31AbLj7EMNL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31AbLj7EMNL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNN26TN1?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY3JCNH4",
@@ -1846,14 +1941,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5900,
-    "img": "https://m.media-amazon.com/images/I/5113vLUdBqL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31OcjqRl1pL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY3JCNH4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0119JLVNU",
@@ -1867,14 +1963,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 3799,
-    "img": "https://m.media-amazon.com/images/I/519RJbOap+L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41q31kjmvML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0119JLVNU?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FMQD7D7R",
@@ -1887,15 +1984,16 @@
     "title": "Toshiba Microwave ML3-EM45PFI(MB), Origin Inverter, Easy Max, Auto Defrost, Smart Sensor Cook, 45Liter, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
-    "price": 9480.31,
-    "img": "https://m.media-amazon.com/images/I/71RarVQ4DUL._AC_UL320_.jpg",
+    "price": 9399,
+    "img": "https://m.media-amazon.com/images/I/31gdrJAk5+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FMQD7D7R?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LQ92QAU",
@@ -1908,15 +2006,16 @@
     "title": "Fresh FMW-28ECB Microwave Oven 28L, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
-    "price": 6272,
-    "img": "https://m.media-amazon.com/images/I/41S2-IwdhAL._AC_UL320_.jpg",
+    "price": 5880,
+    "img": "https://m.media-amazon.com/images/I/31FcsDju4hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LQ92QAU?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B8F2CMHB",
@@ -1930,14 +2029,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4357,
-    "img": "https://m.media-amazon.com/images/I/51iMPoI98rL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31B012U+BYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B8F2CMHB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CGV6WRKR",
@@ -1951,14 +2051,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4999,
-    "img": "https://m.media-amazon.com/images/I/51VNMCYMIJL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/3172-bZPXjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CGV6WRKR?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B097F3LZS2",
@@ -1972,14 +2073,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4589,
-    "img": "https://m.media-amazon.com/images/I/61RMkV8ZIOL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31FiORMrwUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B097F3LZS2?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FWKMFHLB",
@@ -1993,14 +2095,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8699,
-    "img": "https://m.media-amazon.com/images/I/41vwSeGVreL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/2170YkvR3UL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FWKMFHLB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07PJCZXJL",
@@ -2014,14 +2117,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 12221.03,
-    "img": "https://m.media-amazon.com/images/I/614xxIEsslL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31+DKwoyEPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07PJCZXJL?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098PGD6PY",
@@ -2035,14 +2139,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 9499,
-    "img": "https://m.media-amazon.com/images/I/61pRRyCQKIL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31KbhgN+9sL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B098PGD6PY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GJMWKTTW",
@@ -2052,18 +2157,19 @@
     "watt": "1000",
     "variant": "رقمي كونفيكشن",
     "model": "",
-    "title": "HELLER Built-In Microwave With Gril Digital 34 Liter 1000 Watt 10 Menus, 5 Power Levels, Fan Convection, Express Cook, Multi Cooking, Temperature Sensor (ELaraby Warranty) Black HM",
+    "title": "HELLER Built-In Microwave With Gril Digital 34 Liter 1000 Watt 10 Menus, 5 Power Levels, Fan Convection, Express Cook, Multi Cooking, Temperature Sensor (ELaraby Warranty) Black HMBN-34GC-BK",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 12499,
-    "img": "https://m.media-amazon.com/images/I/41-Xo3R8DyL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21n-iyPXfnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GJMWKTTW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR6GQG8P",
@@ -2073,18 +2179,19 @@
     "watt": "1100",
     "variant": "",
     "model": "",
-    "title": "BLACK STONE BS-20 Microwave Oven, 20L, 1100W",
+    "title": "BLACK STONE BS-20 Microwave Oven, 20L, 1100W | Model BS-20",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4838.4,
-    "img": "https://m.media-amazon.com/images/I/71i-Z0mABFL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31nozZoGBsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR6GQG8P?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CKRKGB13",
@@ -2098,14 +2205,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5499,
-    "img": "https://m.media-amazon.com/images/I/51jyQwkb+pL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31wJBEzvIhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKRKGB13?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DHW42QRG",
@@ -2119,14 +2227,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4857.76,
-    "img": "https://m.media-amazon.com/images/I/61t9BJSZGkL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41d136bES3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DHW42QRG?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C8P8DDH9",
@@ -2140,14 +2249,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4830,
-    "img": "https://m.media-amazon.com/images/I/51Oujbh30kL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31ZbzX6DeHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C8P8DDH9?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07YBJ2DWC",
@@ -2161,14 +2271,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 20624,
-    "img": "https://m.media-amazon.com/images/I/51GbehnSPFL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31n71EDHtlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07YBJ2DWC?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07N14HKH3",
@@ -2182,14 +2293,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون | ضمان دولي",
     "ship": "",
     "price": 12999,
-    "img": "https://m.media-amazon.com/images/I/51BYBNHv6gL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/21nsM1it7oL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07N14HKH3?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B8F337TY",
@@ -2203,14 +2315,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 6940,
-    "img": "https://m.media-amazon.com/images/I/71QGtqt7OXL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31qtEArdPZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B8F337TY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09TBH2W9V",
@@ -2224,14 +2337,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5499,
-    "img": "https://m.media-amazon.com/images/I/61HelPKHmuL._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41j3fDLOGaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09TBH2W9V?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DRLJ5QCB",
@@ -2245,14 +2359,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4550,
-    "img": "https://m.media-amazon.com/images/I/51yWlHJ1W6L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/51yWlHJ1W6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DRLJ5QCB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091HLB8HN",
@@ -2266,14 +2381,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 4799,
-    "img": "https://m.media-amazon.com/images/I/51bZNPQ5c1L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31R64vlSosL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091HLB8HN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H6FGKLJR",
@@ -2287,14 +2403,15 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 5362.9,
-    "img": "https://m.media-amazon.com/images/I/5114x+Szy3L._AC_UL320_.jpg",
+    "img": "https://m.media-amazon.com/images/I/4170+7NCOeL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H6FGKLJR?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY69JDQ9",
@@ -2308,13 +2425,14 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "",
     "price": 8799,
-    "img": "https://m.media-amazon.com/images/I/71kg9bBaWhL._AC_SX342_.jpg",
+    "img": "https://m.media-amazon.com/images/I/316amdWtA5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY69JDQ9?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-22",
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   }
 ]
