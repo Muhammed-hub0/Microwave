@@ -63,7 +63,7 @@
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -109,7 +109,7 @@
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -309,7 +309,7 @@
     "lastGood": "2026-11-23",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-24"
@@ -333,7 +333,7 @@
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -819,7 +819,7 @@
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -931,7 +931,7 @@
     "lastGood": "2026-11-23",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-24"
@@ -1021,7 +1021,7 @@
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -1177,7 +1177,7 @@
     "lastGood": "2026-11-23",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-24"
@@ -1400,7 +1400,7 @@
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-24"
@@ -1534,7 +1534,7 @@
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "lastSeenOut": "2026-11-24",
     "outOfStockSince": "2026-11-23"
@@ -1558,7 +1558,7 @@
     "lastGood": "2026-11-22",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "lastSeenOut": "2026-11-24",
     "outOfStockSince": "2026-11-23"
@@ -1604,7 +1604,7 @@
     "lastGood": "2026-11-19",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -1628,7 +1628,7 @@
     "lastGood": "2026-11-23",
     "source": "scrape",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "lastSeenOut": "2026-11-24",
     "outOfStockSince": "2026-11-23"
@@ -1939,7 +1939,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-24"
@@ -2073,7 +2073,7 @@
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
@@ -2097,7 +2097,7 @@
     "lastGood": "2026-11-22",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-22",
     "lastSeenOut": "2026-11-24"
